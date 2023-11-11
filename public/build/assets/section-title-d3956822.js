@@ -1,0 +1,1 @@
+import{j as i,a as r}from"./app-c8c77ab7.js";import{a as s,b as t,d}from"./card-9205d7db.js";function c({title:a,description:e}){return i(s,{children:[r(t,{children:a}),r(d,{children:e})]})}export{c as S};
