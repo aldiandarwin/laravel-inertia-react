@@ -5,6 +5,8 @@ This repository contains the source code and lessons for a 19-episode series foc
 
 Each episode covers essential topics ranging from initial setup to advanced UI components, resulting in a well-structured and responsive web application.
 
+![ui-react.png](https://github.com/aldiandarwin/laravel-inertia-react/assets/70283015/4e6672d9-8339-4da6-8337-5a479de9c0be)
+
 # Episodes
 
 Setup Laravel & UI Initial setup of Laravel and UI.
@@ -44,6 +46,8 @@ Butuh Dialog Didalam Option: Implementing dialogs within the option menu.
 Avatar: Building and integrating avatar components.
 
 Build like a pro: Concluding episode with advanced tips and best practices.
+
+![ui-react-2](https://github.com/aldiandarwin/laravel-inertia-react/assets/70283015/296560da-30a1-4f6d-9d27-8924c65f5472)
 
 ## Getting Started
 
